@@ -34,4 +34,5 @@
   * 看到 write done 字样的时候基本就快结束了，如果它没动静了或者命令行直接消失了，就结束了...
   * 在这个文件夹你看有没有一个叫 zhihu.md 的文件，这个 markdown 文件就是你的收藏了
 
-Ps...第一次使用 github 发布代码，如有建议或问题可尽情联系我 toacme.w@gmail.com
+Ps...代码有点乱...见谅...
+PPs...第一次使用 github 发布代码，如有建议或问题可尽情联系我 toacme.w@gmail.com
