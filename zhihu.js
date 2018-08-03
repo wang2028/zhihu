@@ -2,8 +2,7 @@ const cheerio = require('cheerio');
 const superagent = require('superagent');
 const fs = require('fs');
 
-// 这里换成从浏览器中找到的自己的 cookie：
-let cookie = 'd_c0="AABCU7Vp8gqPTo-S03XIKNxNs0-kNcLIGbE=|1480846747"; _zap=9fa78242-2d40-42ee-b4e7-30d0d134f95f; _ga=GA1.2.1094427016.1487321486; q_c1=9c214e51964b4c2c9f2303def17e2b88|1501125978000|1490444342000; __DAYU_PP=vUQB3BqZeFyE2ny2imZA22f02130c11e; _xsrf=LOkI2SbM3f16FPca16EpAFwbUYIBjfyv; q_c1=9c214e51964b4c2c9f2303def17e2b88|1530677085000|1490444342000; capsion_ticket="2|1:0|10:1530677089|14:capsion_ticket|44:YjFjNjRhM2NkZWYwNGE5NDllOGY4Y2JjZTQ3NTRmZjY=|8f4232f477f208e5f9d5f39ba587d54c3525bbb8300263a37966e9209f8c9add"; z_c0="2|1:0|10:1530677091|4:z_c0|92:Mi4xZE9sOUFBQUFBQUFBQUVKVHRXbnlDaVlBQUFCZ0FsVk5ZNVVwWEFCdERENVlPSnNVLW4tT1RFbTk0UUJ0TzlOeWVn|0bc5246ecd7710531070b7585b1e3c9bdf6938930a14253d57ad54cbf0824e25"; __utma=155987696.1094427016.1487321486.1532015478.1532015478.1; __utmz=155987696.1532015478.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); tgw_l7_route=29b95235203ffc15742abb84032d7e75';
+let cookie = '这里换成从浏览器中找到的自己的 cookie 字符串';
 
 // 这里是要保存 markdown 的地址：
 const mdPath  = "./zhihu.md";
