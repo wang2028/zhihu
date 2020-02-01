@@ -9,4 +9,4 @@ A spider, by which you can get all of your zhihu collections
 ## 0.2 版本
 
 改进为不需要 cookie 即可爬取，通过知乎个人主页的网址即可浏览所有自己的收藏夹内容，
-并且已经写成一个简单的小网站 https://nought.cc/zh 以后台服务器爬取、前端展示的方式更方便的查看或搜索收藏内容，详见 0.2 版本文件夹。
+并且已经写成一个简单的小网站 https://nought.wangxw.cn/zh 以后台服务器爬取、前端展示的方式更方便的查看或搜索收藏内容，详见 0.2 版本文件夹。
