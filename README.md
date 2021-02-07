@@ -19,4 +19,4 @@ A spider, by which you can get all of your zhihu collections
 1.0 版本将变为__本地部署__版本，更加方便，如下图所示。
 如有需要可直接联系 wangxw-cn@qq.com 邮箱，日后会放上来 github 开源。
 
-[1.0](https://github.com/Zen-w/zhihu/blob/master/1.0/1.0%E7%89%88%E6%9C%AC.png?raw=true)
+![image](https://github.com/Zen-w/zhihu/blob/master/1.0/1.0%E7%89%88%E6%9C%AC.png?raw=true)
