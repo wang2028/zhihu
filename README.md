@@ -16,5 +16,7 @@ A spider, by which you can get all of your zhihu collections
 > 2021.02.07 更新
 
 0.1、0.2 版本中的接口可能已经无法使用，
-1.0 版本将变为__本地部署__版本，更加方便，
-如有需要可直接联系 wangxw-cn@qq.com 邮箱，日后会放上来 github 开源
+1.0 版本将变为__本地部署__版本，更加方便，如下图所示。
+如有需要可直接联系 wangxw-cn@qq.com 邮箱，日后会放上来 github 开源。
+
+
