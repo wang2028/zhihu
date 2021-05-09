@@ -16,7 +16,8 @@ A spider, by which you can get all of your zhihu collections
 > 2021.02.07 更新
 
 0.1、0.2 版本中的接口可能已经无法使用，
-1.0 版本将变为__本地部署__版本，更加方便，如下图所示。
-如有需要可直接联系 wangxw-cn@qq.com 邮箱，日后会放上来 github 开源。
+1.0 版本将变为 __本地部署__ 版本，即，把程序放在你自己的windows电脑上运行，
+需要根据教程自行配置（需要会使用windows下的命令行工具）。
+如有需要程序的话可联系 wangxw-cn@qq.com 邮箱。
 
 ![image](https://github.com/Zen-w/zhihu/blob/master/1.0/1.0%E7%89%88%E6%9C%AC.png?raw=true)
